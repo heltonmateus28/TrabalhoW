@@ -1,0 +1,17 @@
+{
+    "estados"
+    [{
+        "estado": "MG"
+    },
+    {
+        "estado": "SP"
+    },
+    {
+        "estado": "RJ"
+    },
+    {
+        "estado": "DF"
+    }
+
+    ]
+}

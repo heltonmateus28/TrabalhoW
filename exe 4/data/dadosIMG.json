@@ -1,0 +1,16 @@
+{"imagens":
+[
+	{
+		"id": 1,
+		"caminho": ["./img/img1.jpg"]
+	},
+	{
+		"id": 2,
+		"caminho": ["./img/img2.jpg"]
+	},
+	{	"id": 3,
+		"caminho": ["./img/img3.jpg"]
+	}
+	]
+
+}

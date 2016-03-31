@@ -1,0 +1,30 @@
+{
+    "botaoo":
+    [
+     {
+     	"id": 1,
+        "nome": "Basketball",
+        "lanc":	"Lançamento: não informado ",
+        "imag":	"img/baskete.jpg",
+        "nota": 10,
+        "descricao": "Além de ser o objetivo principal do basquete, fazer cestas é algo bastante divertido. Por isso, em Bastekball Kings, seu único objetivo é arremessar bolas de vários lugares da quadra para marcar pontos. O jogo permite treinar bastante para participar de disputas online contra pessoas do mundo todo." 
+
+     },
+    {
+    	"id": 2,
+        "nome": "Copa Toon",
+        "lanc":	"Lançamento: não informado ",
+        "imag":	"img/copa.jpg",
+        "nota": 10,
+        "descricao": "Já imaginou jogar partidas de futebol com a galera de A Hora de Aventura, Bem 10, O Incrível Mundo de Gumball e Apenas um Show? Pois é isso que acontece em Copa Toon, um divertido game em que você controla os personagens dos desenhos em um campeonato improvável."
+    },
+    {
+    	"id": 3,
+        "nome": "FIFA 15 Ultimate Team",
+        "lanc":	"Lançamento: não informado ",
+        "imag":	"img/fifa.jpg",
+        "nota": 10,
+        "descricao": "Dispute grandes partidas de futebol escolhendo mais de 10 mil jogadores e 500 times licenciados em FIFA 15 Ultimate Team. O game ainda conta com 30 ligas diferentes para você desempenhar o seu papel de técnico e jogador ao mesmo tempo."
+    }
+    ]
+}
